@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data files (large - comment out if you need to push to Streamlit Cloud)
+# *.csv
+# !data/test/test_demo.csv
+# data/train/train.csv
+
+# Model files (large - comment out if you need to push to Streamlit Cloud)
+# *.h5
+# *.hdf5
+# *.pkl
+# *.joblib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Output files
+toxic_comments.csv
+non_toxic_comments.csv
+
