@@ -1,3 +1,6 @@
+## Link build model: https://colab.research.google.com/drive/1HnVuGjvwWL3Zk6otd895hso125S3Ry2Y?usp=sharing
+## Result: toxic_comment_model.h5
+
 # UI Demo - Phát hiện bình luận tiêu cực (Toxic Comments Detection)
 
 Dự án này cung cấp một ứng dụng web tương tác sử dụng Streamlit để phát hiện bình luận độc hại (toxic comments) dựa trên mô hình deep learning đã được huấn luyện. Ứng dụng có thể phân loại bình luận thành 6 loại độc hại: `toxic`, `severe_toxic`, `obscene`, `threat`, `insult`, `identity_hate`.
