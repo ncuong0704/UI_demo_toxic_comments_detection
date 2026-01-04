@@ -1,5 +1,9 @@
-## Link build model: https://colab.research.google.com/drive/1HnVuGjvwWL3Zk6otd895hso125S3Ry2Y?usp=sharing
-## Result: toxic_comment_model.h5
+## Link Colab dùng để tạo mô hình: https://colab.research.google.com/drive/1HnVuGjvwWL3Zk6otd895hso125S3Ry2Y?usp=sharing
+## Tệp lưu mô hình tải từ colab: toxic_comment_model.h5
+## Đường dẫn giao diện demo: https://web-toxic-comments-detection.streamlit.app
+## Link báo cáo: https://docs.google.com/document/d/1_uzpH_yZRDdHtM64tRmt8P6MH-oSkqRbCGROytoxSsg/edit?usp=sharing
+
+
 
 # UI Demo - Phát hiện bình luận tiêu cực (Toxic Comments Detection)
 
